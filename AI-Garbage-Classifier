@@ -1,0 +1,116 @@
+# ♻️ Garbage Classification using Computer Vision
+
+## 📌 Project Overview
+Garbage Classification using Computer Vision is a machine learning project that automatically identifies and classifies different types of waste such as plastic, paper, metal, cardboard, glass, and organic waste using image processing and deep learning techniques.  
+
+The system helps improve waste segregation, recycling efficiency, and smart waste management by automatically recognizing garbage types from images.
+
+---
+
+## 🎯 Objectives
+- Automate waste classification using Computer Vision
+- Improve recycling efficiency
+- Reduce manual effort in garbage segregation
+- Support smart city waste management systems
+
+---
+
+## 🧠 Technologies Used
+- Python
+- Computer Vision
+- Deep Learning / CNN
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Matplotlib
+
+---
+
+## 📂 Dataset
+The model is trained using a garbage dataset containing images of different waste categories such as:
+
+- Plastic
+- Paper
+- Glass
+- Metal
+- Cardboard
+- Organic Waste
+
+---
+
+## ⚙️ How It Works
+1. Collect and preprocess garbage image dataset.
+2. Train a Convolutional Neural Network (CNN) model.
+3. The trained model analyzes images.
+4. The system predicts the type of garbage.
+5. Output displays the classified waste category.
+
+---
+
+## 🚀 Features
+- Automatic garbage classification
+- Image-based waste detection
+- Deep learning model for prediction
+- Supports multiple waste categories
+- Helps improve recycling and waste management
+
+---
+
+## 🖥️ Project Structure
+```
+Garbage-Classification-CV
+│
+├── dataset
+├── model
+├── train.py
+├── predict.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository
+```
+git clone https://github.com/yourusername/Garbage-Classification-CV.git
+```
+
+2. Install required libraries
+```
+pip install -r requirements.txt
+```
+
+3. Run the training script
+```
+python train.py
+```
+
+4. Test the model
+```
+python predict.py
+```
+
+---
+
+## 🌍 Applications
+- Smart waste management systems
+- Recycling plants
+- Smart city projects
+- Environmental monitoring
+
+---
+
+## 📌 Future Improvements
+- Real-time garbage detection
+- Mobile application integration
+- IoT based smart dustbin system
+- Higher accuracy with larger datasets
+
+---
+
+## 👨‍💻 Author
+**Abhishek K**  
+B.E. Artificial Intelligence & Machine Learning  
+CMR Institute of Technology, Bengaluru
